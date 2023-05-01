@@ -29,7 +29,7 @@ const AddressForm = ({ errors, values, handleChange }) => {
           },
         }}
       >
-        <Typography mb={2}>{t("Add Your Address")}</Typography>
+        <Typography mb={2}>{t("AddYourAddress")}</Typography>
         <Box sx={{
           display: "flex", [theme.breakpoints.down("md")]: {
             display: "block",
@@ -43,7 +43,7 @@ const AddressForm = ({ errors, values, handleChange }) => {
             {" "}
             <TextField
               name="addressLine"
-              label={t("Address Line 1")}
+              label={t("AddressLine1")}
               value={values.adressLine1}
               onChange={handleChange}
               fullWidth

@@ -45,7 +45,7 @@ const ReferenceForm = ({ errors, values, handleChange }) => {
               {" "}
               <TextField
                 name="referenceNumber"
-                label={t('Reference Number')}
+                label={t('ReferenceNumber')}
                 value={values.referenceNumber}
                 onChange={handleChange}
                 error={!!errors.referenceNumber}
@@ -85,7 +85,7 @@ const ReferenceForm = ({ errors, values, handleChange }) => {
               {" "}
               <Typography mb={2}>
                 {t(
-                  " A booking reference is a code used by airlines to keep track of individual reservations. You can find your booking reference on your e-ticket or on any emails or documents you received from the airline after booking your trip. This code will most often be 6 digits, including both letters and numbers (for example DF87G#, REDYYD, or L5W4NW). Please make sure you don't include spaces."
+                  "A booking reference is a code used by airlines to keep track of individual reservations. You can find your booking reference on your e-ticket or on any emails or documents you received from the airline after booking your trip. This code will most often be 6 digits, including both letters and numbers (for example DF87G#, REDYYD, or L5W4NW). Please make sure you don't include spaces."
                 )}
               </Typography>
             </Grid>

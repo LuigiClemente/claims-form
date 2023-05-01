@@ -32,7 +32,7 @@ const AirlineCheckForm = ({ errors, values, handleChange }) => {
         }}
       >
         <Typography mb={2}>
-          {" "}
+        
           {t(
             "OK, I’ll just need a few flight details so I can check your eligibility."
           )}
@@ -54,7 +54,7 @@ const AirlineCheckForm = ({ errors, values, handleChange }) => {
               fullWidth
               error={!!errors.flightNumber}
               name="flightNumber"
-              label={t("Flight Number")}
+              label={t("FlightNumber")}
               value={values.flightNumber}
               helperText={errors.flightNumber}
               onChange={handleChange}

@@ -1,0 +1,126 @@
+{
+
+  "formTitle": "EU Flugverzögerungs- und Stornierungsanspruchsformular",
+  "Eligibility Check": "Berechtigkeitsprüfung ",
+  "Additional Information": "Zusätzliche Informationen",
+  "Finish": "Fertigstellen",
+  "Previous": "Zurück",
+  "Submit": "Submit",
+  "Next": "Weiter",
+  "Continue": "Continue",
+
+  "What was your scheduled departure date?":"What was your scheduled departure date?",
+  
+
+  "Hi! Let’s see if the airline owes you compensation. Where were you flying to?": "Hi! Let’s see if the airline owes you compensation. Where were you flying to?",
+  "departingFrom": "Departing from",
+  "Final destination": "Final destination",
+
+
+  "OK, I’ll just need a few flight details so I can check your eligibility.": "In Ordnung, ich benötige nur einige Flugdetails, um Ihre Berechtigung zu prüfen.",
+  "Airline": "Fluggesellschaft",
+  "FlightNumber": "Flugnummer",
+  
+
+  "Now onto the flight disruption itself. What actually happened?": "Nun zur Flugstörung selbst. Was ist tatsächlich passiert?",
+  "Myflightwasdelayed": "Mein Flug hatte Verspätung",
+  "Myflightwascanceled": "Mein Flug wurde storniert",
+  "DelayLength": "Afturköllun og teljandi",
+  "ReasonforDelayorCancellation": "Grund für die Verspätung oder Stornierung",
+
+
+  "I’ll need some passenger info to get things moving.": "Ich benötige einige Passagierinformationen, um die Dinge in Gang zu bringen.",
+  "firstName": "Vorname",
+  "lastName": "Nachname",
+  "Email": "E-Mail",
+  "PhoneNumber": "Telefonnummer",
+
+
+  "What's your booking reference number?": "Wie lautet Ihre Buchungsreferenznummer?",
+  "ReferenceNumber": "Referenznummer",
+  "How to find reference number?": "Wie man die Referenznummer findet?",
+  "A booking reference is a code used by airlines to keep track of individual reservations. You can find your booking reference on your e-ticket or on any emails or documents you received from the airline after booking your trip. This code will most often be 6 digits, including both letters and numbers (for example DF87G#, REDYYD, or L5W4NW). Please make sure you don't include spaces.": "Eine Buchungsreferenz ist ein Code, den Fluggesellschaften verwenden, um einzelne Reservierungen zu verfolgen. Sie finden Ihre Buchungsreferenz auf Ihrem E-Ticket oder in allen E-Mails oder Dokumenten, die Sie von der Fluggesellschaft nach der Buchung Ihrer Reise erhalten haben. Dieser Code wird in der Regel 6-stellig sein und sowohl Buchstaben als auch Zahlen enthalten (z. B. DF87G#, REDYYD oder L5W4NW). Bitte stellen Sie sicher, dass Sie keine Leerzeichen einfügen.",
+
+
+  "AddYourAddress": "Adresse hinzufügen",
+  "AddressLine1": "Adresszeile 1",
+  "Address Line 2 (Optional)": "Adresszeile 2 (optional)",
+  "City": "Stadt",
+  "Postal Code": "Postleitzahl",
+  "State": "Bundesland",
+  "Country": "Land",
+
+
+  "Select assistance type": "Art der Unterstützung auswählen",
+  "Food": "Essen",
+  "Accommodation": "Unterkunft",
+  "Transport": "Transport",
+  "None": "Keine",
+  "Assistance Details (if any)": "Unterstützungsdetails (falls vorhanden)",
+
+
+  "Flight Cancellation/Delay Agreement": "Samkomulag um flugafskriftir/töf",
+  "I ": "Ég ",
+  "agree to the following terms and conditions:":"samþykki eftirfarandi skilmála og skilyrði:",
+  "I authorize Emporium Concierge to represent me in filing a claim for compensation against the airline for a flight delay, cancellation, or denied boarding.": "Ég heimila Emporium Concierge að fulltrúa mig í því að leggja fram kröfu um bætur gagnvart flugfélagi vegna flugtöf, flugafskrifta eða neitaðrar aðgangs.",
+  "I understand that Emporium Concierge works on a no-win, no-fee basis, and that I will not be responsible for any fees unless my claim is successful.": "Ég skil að Emporium Concierge starfar á grundvelli `engin sigur, engin gjald` og að ég verð ekki ábyrgur fyrir neinum gjöldum nema kröfun mín gangi upp.",
+  "I agree to provide Emporium Concierge with all of the necessary information and documentation to support my claim.": "Ég samþykki að veita Emporium Concierge allar nauðsynlegar upplýsingar og gögn til að styðja kröfuna mína.",
+  "I understand that Emporium Concierge may contact me with questions about my claim.": "Ég skil að Emporium Concierge getur haft samband við mig með spurningar um kröfuna mína.",
+  "I agree to be bound by the terms and conditions of Emporium Concierge's Flight Cancellation/Delay Agreement.": "Ég samþykki að vera bundinn skilmálum og skilyrðum Samkomulags um flugafskriftir/töf Emporium Concierge.",
+  "By signing below, I agree to the terms and conditions of this agreement.": "Með því að undirrita hér að neðan samþykki ég skilmála og skilyrði þessa samkomulags.",
+  "localedate": "is",
+
+
+  "Select Language": "Select Language",
+  "Flying Details": "Flying Details",
+  "Depature Date": "Depature Date",
+  "Flight Details": "Flight Details",
+  "Incident": "Incident",
+  "Passenger Details": "Passenger Details",
+  "Address": "Address",
+  "Reference No": "Reference No",
+  "Assistance Details": "Assistance Details",
+  "Claim": "Claim",
+
+
+  "Thank you for submitting your claim to Emporium Concierge. We have received your information and it has been passed on to our legal team for review.":"Þakka þér fyrir að senda inn kröfuna þína til Emporium Concierge. Við höfum fengið upplýsingarnar þínar og þær hafa verið sendar til laga- og skilmáladeildar okkar til að skoða.",
+  "We will contact you within 2 business days to provide an update on the status of your claim. In the meantime, please do not hesitate to contact us if you have any questions.":"Við munum hafa samband við þig innan 2 virkra daga til að veita uppfærslu um stöðu kröfunnar þinnar. Á meðan, hafðu samband við okkur ef þú átt einhverjar spurningar.",
+  "Thank you for your patience and understanding.":"Þakka þér fyrir þolinmæði og skilning.",
+  "Sincerely,":"Með kveðju,",
+  "The Emporium Concierge Travel Claims Team":"Emporium Concierge ferðatryggingakröfudeild",
+
+  
+  "Terms And Conditions": "Skilmálar",
+  "Emporium Concierge Terms and Conditions": "Emporium Concierge Skilmálar og skorður",
+  "Welcome to Emporium Concierge, the Justice as a Service provider. These Terms and Conditions (the 'Terms') govern the delivery of our services to you and constitute a binding agreement between you and Emporium Concierge, a trading name of Optimus Consortium Limited ('Emporium Concierge,' 'we,' 'us,' or 'our').": "Velkomin(n) á Emporium Concierge, réttlætissjónaukaveitu. Þessir skilmálar og skorður ('skilmálarnir') stjórna veitingu þjónustu okkar til þín og mynda bindandi samkomulag milli þín og Emporium Concierge, viðskiptaheit Optimus Consortium Limited ('Emporium Concierge', 'við', 'okkur' eða 'okkar').",
+  "1. Definitions": "1. Skilgreiningar",
+
+  "In these Terms, certain terms have specific meanings, including:":"Í þessum skilmálum hafa tiltekna hugtök sérstaka merkingu, þar á meðal:",
+  "'Agreement': an agreement between a Customer and Emporium Concierge for the delivery of Justice as a Service.":"'Samkomulag': samkomulag milli viðskiptavins og Emporium Concierge um veitingu réttlætissjónauka.",
+  "'Emporium Concierge': Emporium Concierge, a trading name of Optimus Consortium Limited.":"'Emporium Concierge': Emporium Concierge, viðskiptaheit Optimus Consortium Limited.",
+  "'Air Passenger Rights Regulation': any law, regulation, directive, international convention, or similar, whether issued on state, federal, EU, national, international, or regional level, and case law, that establishes rules on monetary compensation, damages, or refund to passengers in the event of overbooked, delayed, cancelled, or otherwise disrupted flights or luggage claims.": "'Reglugerð um réttindi loftfarþega': hvers konar lög, reglugerðir, tilskipanir, alþjóðlegar samkomulagir eða þess háttar, hvort sem þær eru gefnar út á ríkis-, sambands-, ESB-, þjóðlegri, alþjóðlegri eða svæðisbundinni stund, og dómsúrskurðir, sem setja reglur um fjárhæðarskilyrði, skaðabótum eða endurgreiðslu til farþega vegna yfirbókaðra, tafdra, aflýstra eða annarra truflaðra flugferða eða farangurskrafna.",
+  "'Assignment Form': the electronic document, whereby the Customer and Emporium Concierge agree that Emporium Concierge shall become the owner of the Claim, subject to the terms and conditions of the document, in order to collect and receive payments.":"'Umsóknareyðublað': rafbókin, þar sem viðskiptavinurinn og Emporium Concierge samþykkja að Emporium Concierge verði eigandi kröfu, að því skilyrði að skilmálar og skorður skjalsins séu viðurkenndir, til að innheimta og fá greitt.",
+  "'Authority Document': a document which authorises Emporium Concierge and/or one of Emporium Concierge's affiliates or partners to act on behalf of the Customer.": "'Heimildarskjöl': skjal sem heimilar Emporium Concierge og/eða einhverja samstarfsaðila eða samkeppnisaðila Emporium Concierge að starfa fyrir hönd viðskiptavinarins.",
+  "'Claim': any claim against an airline for monetary compensation, damages, or refund pursuant to Air Passenger Rights Regulations or an airline's goodwill compensation.":"'Krafa': hvers konar krafa gegn flugfélagi um fjárhæðarskilyrði, skaðabætur eða endurgreiðslu samkvæmt reglugerðum um réttindi loftfarþega eða góðvild flugfélags.",
+  "'Customer(s)': person(s) that has accepted these Terms. May also be referred to as 'Client' on some documents.":"'Viðskiptavinur': einstaklingur sem hefur samþykkt þessa skilmála. Gæti líka verið táknaður sem 'viðskiptamaður' á sumum skjölum.",
+  "'Eligibility Service': is Emporium Concierge's delivery of its state-of-the-art claim eligibility determination through software.":"'Hæfissjónauki': veiting Emporium Concierge á hæfissjónauka um kröfuréttindi með hugbúnaði.",
+  "'Flight Compensation': total amount of money paid by an airline in relation to a Claim as compensation, refund, damages, settlement, a gesture of goodwill, or otherwise, to the Customer or Emporium Concierge after the Customer has accepted these Terms.":"'Flugskilyrði': heildarupphæð peninga sem flugfélag greiðir vegna kröfu sem bætur, endurgreiðsla, skaðabætur, sættar, góðvild eða annars konar til viðskiptavinar eða Emporium Concierge eftir að viðskiptavinurinn samþykkti þessa skilmála.",
+  "'Information Service': is Emporium Concierge's provision of flight information, airline information, airport information, other travel-related information, information about air passenger rights, and consumer protection laws.":"'Upplýsingaþjónusta': veiting Emporium Concierge á flugupplýsingum, upplýsingum um flugfélög, flugvallarupplýsingum, öðrum ferðaupplýsingum, upplýsingum um réttindi loftfarþega og neytendaverndarlögum.",
+  "'Justice as a Service': is Emporium Concierge's pursuit of a Claim, including, if necessary, by Legal Action.":"'Réttrlætissjónauki': elt Emporium Concierge af kröfu, þar á meðal, ef nauðsynlegt, með löglegum aðgerðum.",
+  "'Legal Action': filing a Claim with a court or a government body, such as a national enforcement body (NEB), or handing over a Claim to a contracted legal representative, such as an attorney or law firm.":"'Lögleg aðgerð': skráning krafa hjá dómstóli eða stjórnvöldum, svo sem þjóðlegum eftirlitsaðilum (NEB), eða afhending krafa á samningalega lögmann, svo sem lögfræðing eða lögmannsstofu.",
+  "2. Description of Justice as a Service":"2. Lýsing á réttlætissjónaukum",
+ 
+  "Emporium Concierge provides Justice as a Service to assert the Customer's Claim for Flight Compensation from the operating airline on the basis of EC 261 or any other Air Passenger Rights Regulation applicable to the Customer's particular air travel. We receive flight data and information from the Customer through our website, email, other electronic or software solutions supported by Emporium Concierge, or phone. To pursue the Claim successfully, we need the Customer's submitted Assignment Form or Authority Document, which they can send to us via the web form or using email, or postal service. We prepare a request for payment and send it to the operating airline without unreasonable delay and handle all further correspondence. If Flight Compensation is paid, we charge our Service Fee. If the operating airline fails to pay Flight Compensation within a reasonable period after being notified by us and provided the case may be asserted with adequate certainty, we may propose and initiate Legal Action to pursue the Claim. In the event that Legal Action is undertaken as advised and Flight Compensation is paid, we charge the Legal Action Fee in addition to the Service Fee. If a contracted legal representative is used for Legal Action, the Customer authorizes us to grant the legal representative access to all of the data communicated to us and to transfer information concerning the proceedings to us. We reserve the right to contact the Customer and actively pursue the Claim again in the event of changes affecting the Claim's prospects of success.":"Emporium Concierge veitir réttlætissjónauka til að gæta kröfu viðskiptavinar um flugskilyrði frá starfrækjanda loftfars á grundvelli EC 261 eða annarra reglugerða um réttindi loftfarþega sem gilda um ákveðna loftferð viðskiptavinar. Við fáum flug- og upplýsingagögn frá viðskiptavinum í gegnum vefsíðu okkar, tölvupóst, aðrar rafbókalausnir sem Emporium Concierge styður, eða síma. Til að elta kröfuna með árangri þurfum við að viðskiptavinur skili inn Umsóknareyðublaði eða Heimildarskjali, sem hann getur sent okkur með vafraformi eða með tölvupósti, eða með póstþjónustu. Við undirbúum greiðslubeiðni og sendum henni starfrækjanda loftfars án óskynsama tafar og sérhöfum frekari bréfaskriftir. Ef flugskilyrði eru greidd, innheimtum við þjónustugjald. Ef starfrækjandi loftfars greiðir ekki flugskilyrði innan skynsama frests eftir að við höfum látið hann vita af því og ef málið má rökstyðja með nægjanlegri vissu, gætum við lagt til og hefja löglega aðgerð til að elta kröfuna. Ef lögleg aðgerð er hafin eins og ráðlagt og flugskilyrði eru greidd, innheimtum við löglega aðgerðagjald auk þjónustugjalds. Ef samningalegur lögmaður er notaður í löglegum aðgerðum heimilar viðskiptavinurinn okkur að veita lögmanni aðgang að öllum gögnum sem komin eru til okkar og að flytja okkur upplýsingar um málsatvik. Við áskiljum okkur rétt til að hafa samband við viðskiptavininn og elt kröfuna virkilega aftur ef breytingar verða á líkum á árangri kröfunnar.",
+  "If we or the contracted legal representative institutes legal proceedings to pursue a Claim, we will cover any costs incurred in the event the lawsuit is lost. In the event the lawsuit is won, or a settlement has been reached between the airline and us, we will cover any costs incurred that are not covered by the airline. The Customer acknowledges that it is the sole decision of Emporium Concierge to accept any settlement offer since the Customer has assigned the Claim to us. In case we act on behalf of the Customer pursuant to an Authority Document, the Customer authorizes us to accept or reject settlement offers based on our experience with the airline and the advice from external legal representatives. We may pursue the Claim in our own name with the assigned Claim, with or without the help of a legal representative. Where appropriate and/or legally necessary, we may reassign the Claim to the Customer and the Customer agrees to grant us an Authority Document to deliver Justice as a Service and collect and/or receive payments.":"Ef við eða samningalegur lögmaður hefjum málsókn til að elta kröfu, munum við greiða allar kostnaðarliði sem myndast ef mál er tapað. Ef mál er unnið eða samkomulag náðst á milli flugfélags og okkar, munum við greiða allan kostnað sem myndast sem flugfélagið greiðir ekki. Viðskiptavinurinn viðurkennir að það er einungis niðurstaða Emporium Concierge hvort samkomulagsskilmálar eru samþykktir eða ekki þar sem viðskiptavinurinn hefur yfirfært kröfuna til okkar. Ef við starfum fyrir hönd viðskiptavinarins samkvæmt Heimildarskjali, heimilar viðskiptavinurinn okkur að samþykkja eða hafna samkomulagsskilmálum byggðum á reynslu okkar af flugfélagi og ráðgjöf frá ytri lögfræðingum. Við getum elt kröfuna í eigin nafni með yfirfærðri kröfu, með eða án aðstoðar lögmanns. Þar sem viðeigandi og/eða löglega nauðsynlegt, getum við enduryfirfært kröfuna til viðskiptavinarins og viðskiptavinurinn samþykkir að veita okkur Heimildarskjal til að veita réttlætissjónauka og innheimta og/eða fá greitt.",
+  "3. Data and Information from the Customer":"3. Gögn og upplýsingar frá viðskiptavinum",
+
+  "Upon request by Emporium Concierge, the Customer or their fellow passengers will provide us with all data or information that is required for the execution of the Agreement. The Customer warrants that the data and information provided is correct, complete and true, and where applicable, given with the consent of the fellow passengers. The Customer agrees to fully indemnify Emporium Concierge in all respects for all third-party claims including, but not limited to, incorrect Customer communications, provision of incorrect data/information, and fraudulent conduct. In case of incorrect data/information and fraudulent conduct, we reserve the right to terminate the Agreement with immediate effect. If the Agreement is terminated in accordance with this paragraph, the Customer will not have any right to compensation of any kind.":"Ef Emporium Concierge biður um það, munu viðskiptavinurinn eða samferðamenn hans veita okkur öll gögn eða upplýsingar sem krafist er til að framkvæma samkomulagið. Viðskiptavinurinn ábyrgist að gögn og upplýsingar sem veittar eru séu réttar, fullkomnar og sannar, og þar sem við á, gefnar með samþykki samferðamanna. Viðskiptavinurinn samþykkir að endurgreiða Emporium Concierge að fullu í öllum atriðum vegna kröfu þriðja aðila, þar á meðal, en ekki takmarkað við, rangar viðskiptavinasamskipta, veitingu rangra gagna/upplýsinga og sviksemi. Ef gögn/upplýsingar eru rangar og sviksemi fram kemur, áskiljum við okkur rétt til að rjúfa samkomulagið strax. Ef samkomulagið er rutt í samræmi við þennan málaflokk, hefur viðskiptavinurinn ekki rétt til skaðabóta af neinum toga.",
+  "4. Right of Withdrawal":"4. Afturköllunarréttur",
+
+  "If the Customer qualifies as a consumer in accordance with EU consumer regulations, they have a statutory right of withdrawal. The Customer can withdraw their acceptance of the Agreement within 14 days from the conclusion of the Agreement (e.g., letter, email) without the need to specify any reasons. To exercise their right to withdrawal, the withdrawal must be communicated within the 14-day period mentioned above, and it must clearly state their wish to withdraw from the Agreement. Due to the nature of the service provided to the Customer, they cannot withdraw from our Agreement if we have informed the Customer that the airline has accepted the Claim, as in such an event we have completed the service they requested.":"Ef viðskiptavinurinn telst neytandi samkvæmt neytendalögum ESB, hefur hann lagalegan afturköllunarrétt. Viðskiptavinurinn getur afturkallað samþykki sitt við samkomulagið án rökstuðnings innan 14 daga frá gerð samkomulagsins (t.d. bréf, tölvupóstur). Til að æfa afturköllunarréttinn þarf viðskiptavinurinn að senda inn afturköllunina innan 14 daga-frestsins, sem hér er talað um, og þarf hann að tákna skýrt að hann vilji afturkalla samkomulagið. Vegna eðlis þjónustunnar sem veitt er viðskiptavinum, getur hann ekki afturkallað samkomulag okkar ef við höfum látið hann vita að flugfélagið hefur samþykkt kröfuna, því í því tilviki höfum við lokið þjónustu sem hann óskaði.",
+  "5. Final Provisions":"5. Lokaskilmálar",
+
+  "Emporium Concierge is authorized to alter these Terms and any associated Price List and to set forth additional conditions at any time and without notice. However, changes with a negative effect on the Client will not apply to the Client unless they agree to new changes. The laws of Gibraltar apply to these Terms, the Assignment Form, and the Agreement between Emporium Concierge and the Customer, without regard to conflict of laws principles. Should any provision of these Terms be or become void, illegal, or unenforceable, this shall not affect the validity of the remaining provisions in any way whatsoever. Rights and obligations fully or partially related to any submitted Claim may be transferred without restrictions by Emporium Concierge to any entity within the corporate group of Emporium Concierge and by Emporium Concierge to third parties. The English version of these Terms shall prevail in case of inconsistency with any other language version.":"Emporium Concierge hefur heimild til að breyta þessum skilmálum og verðskrá tengdri skilmálum og að setja fram auka skilmála hvenær sem er og án fyrirvara. Hins vegar gilda breytingar með neikvæð áhrif á viðskiptavini ekki fyrir viðskiptavini nema þeir samþykki nýjar breytingar. Lög Gíbraltars gilda um þessa skilmála, Umsóknareyðublaðið og samkomulagið á milli Emporium Concierge og viðskiptavinarins, án tillits til löggjafar átaka. Ef einh ver stefna þessara skilmála verður ógild, ólögleg eða óframkvæmanleg, hefur það ekki áhrif á gildi annarra stefna á nokkru leyti. Emporium Concierge getur flutt rétti og skyldur, sem tengjast fullkomlega eða að hluta til einhverri skilagreindri kröfu, án takmarkana til einhverrar aðilar innan stjórnarhóps Emporium Concierge og til Emporium Concierge af þriðja aðilum. Enska útgáfa þessara skilmála skal ráða ef ósamræmi er á milli hennar og annarra tungumálaútgáfa.",
+  "We use cookies 🍪 to provide you with the best browsing experience. By using Emporium Concierge, you agree to our cookie policy, which can be found on our website.":"Við notum vafrakökur 🍪 til að veita þér bestu vafraupplifun. Með því að nota Emporium Concierge samþykkir þú vafraköku-stefnu okkar, sem má finna á vefsíðu okkar.",
+  "If you have any questions or concerns about these Terms, please contact us at travel@emporiumconcierge.com. Thank you for choosing Emporium Concierge for your Justice as a Service needs.":"Ef þú hefur einhverjar spurningar eða áhyggjur vegna þessara skilmála, vinsamlegast hafðu samband við okkur á travel@emporiumconcierge.com. Þakka þér fyrir að velja Emporium Concierge fyrir þarfir þínar varðandi réttlætissjónauka."
+}

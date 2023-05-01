@@ -1,4 +1,4 @@
-import * as React from "react";
+import React, {useState} from "react";
 import { Grid, Box, Typography } from "@mui/material";
 import { useTranslation } from "react-i18next";
 import { LocalizationProvider } from "@mui/x-date-pickers";
@@ -11,7 +11,35 @@ const ClaimForm = ({ errors, values, handleChange }) => {
   const theme = createTheme({
     // your theme configuration options
   });
-
+  
+  const [names, setNames] = useState(() => {
+    let names = "";
+    values.fullName.forEach((item, index) => {
+      if (index + 1 !== values.fullName.length) {
+        names += item.firstName + ", "
+      }
+      else {
+        names += item.firstName
+      }
+    }
+    )
+    return names;
+  }
+  )
+  const [surnames, setSurnames] = useState(() => {
+    let surnames = "";
+    values.fullName.forEach((item, index) => {
+      if (index + 1 !== values.fullName.length) {
+        surnames += item.lastName + ", "
+      }
+      else {
+        surnames += item.lastName
+      }
+    }
+    )
+    return surnames;
+  }
+  )
   return (
     <LocalizationProvider dateAdapter={AdapterDayjs}>
       <Grid>
@@ -35,80 +63,27 @@ const ClaimForm = ({ errors, values, handleChange }) => {
             },
           }}
         >
-          <Typography mb={2}>{t("Why make a Goodwill Claim?")}</Typography>
+          <Typography mb={2}>{t("Flight Cancellation/Delay Agreement")}</Typography>
           <Grid container spacing={2}>
             <Grid item xs={12}>
               {" "}
               <Typography mb={2}>
-                {t("* Refund — up to the full ticket price")}
+                {t("I ")}
+                {names},
+                {t("agree to the following terms and conditions:")}
               </Typography>
-              <Typography mb={2}>{t("* Vouchers worth up to $125")}</Typography>
-              <Typography mb={2}>{t("* Free air miles ")}</Typography>
-            </Grid>
-          </Grid>
-        </Box>
-        <Box
-          sx={{
-            width: "100%",
-            // maxWidth: 1000,
-            // height: 200,
-            backgroundColor: "#f3f6f9",
-            borderColor: "primary.main",
-            borderRadius: 2,
-            // ml: 2,
-            // mr: 2,
-            mt: 6,
-            pr: 5,
-            pl: 5,
-            pt: 6,
-            [theme.breakpoints.up("md")]: {
-              // ml: 30,
-              // mr: 30,
-
-            },
-          }}
-        >
-
-          <Grid container spacing={2}>
-            <Grid item xs={12}>
-              {" "}
-              <Typography mb={2}>
-                {t(
-                  "Successful Goodwill Claim compensation is often valued at around $125. Following a win we take a fixed fee of $24.99, but if we don't win — you won't be charged a cent."
-                )}
-              </Typography>
-            </Grid>
-          </Grid>
-        </Box>
-        <Box
-          sx={{
-            width: "100%",
-            // maxWidth: 1000,
-            // height: 100,
-            backgroundColor: "#f3f6f9",
-            borderColor: "primary.main",
-            borderRadius: 2,
-            // ml: 2,
-            // mr: 2,
-            mt: 6,
-            pr: 5,
-            pl: 5,
-            pt: 3,
-            [theme.breakpoints.up("md")]: {
-              // ml: 30,
-              // mr: 30,
-            },
-          }}
-        >
-
-          <Grid container spacing={2}>
-            <Grid item xs={12}>
-              {" "}
-              <Typography mb={2}>
-                {t(
-                  "We've helped over 16 million air passengers."
-                )}
-              </Typography>
+              <Grid sx={{paddingTop: "5px", paddingBottom: "5px" }}>
+                <ul>
+              <li><Typography mb={2}>{t("I authorize Emporium Concierge to represent me in filing a claim for compensation against the airline for a flight delay, cancellation, or denied boarding.")}</Typography></li>
+              <li><Typography mb={2}>{t("I understand that Emporium Concierge works on a no-win, no-fee basis, and that I will not be responsible for any fees unless my claim is successful.")}</Typography></li>
+              <li><Typography mb={2}>{t("I agree to provide Emporium Concierge with all of the necessary information and documentation to support my claim.")}</Typography></li>
+              <li><Typography mb={2}>{t("I understand that Emporium Concierge may contact me with questions about my claim.")}</Typography></li>
+              <li><Typography mb={2}>{t("I agree to be bound by the terms and conditions of Emporium Concierge's Flight Cancellation/Delay Agreement.")}</Typography></li>
+              </ul>
+              </Grid>
+              <Typography mb={2}>{t("By signing below, I agree to the terms and conditions of this agreement.")}</Typography>
+              <Typography mb={2}>{surnames}</Typography>
+              <Typography mb={2}>{new Date().toLocaleDateString(t("localedate"))}</Typography>
             </Grid>
           </Grid>
         </Box>

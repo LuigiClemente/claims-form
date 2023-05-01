@@ -1,0 +1,125 @@
+{
+"formTitle": "Formulier voor het indienen van een claim voor vertraging of annulering van een EU-vlucht",
+  "Eligibility Check": "Controleer de in aanmerking komende vlucht",
+  "Additional Information": "Voeg extra informatie toe",
+  "Finish": "Afronden",
+  "Previous": "Vorige",
+  "Submit": "Submit",
+  "Next": "Volgende",
+  "Continue": "Continue",
+
+  "What was your scheduled departure date?":"What was your scheduled departure date?",
+  
+
+  "Hi! Let’s see if the airline owes you compensation. Where were you flying to?": "Hi! Let’s see if the airline owes you compensation. Where were you flying to?",
+  "departingFrom": "Vertraagd en tellend",
+  "Final destination": "Final destination",
+
+
+  "OK, I’ll just need a few flight details so I can check your eligibility.": "Oké, ik heb slechts enkele vluchtgegevens nodig om uw recht op compensatie te controleren.",
+  "Airline": "Luchtvaartmaatschappij",
+  "FlightNumber": "Vluchtnummer",
+  
+
+  "Now onto the flight disruption itself. What actually happened?": "Nu over de feitelijke vluchtverstoring. Wat is er precies gebeurd?",
+  "Myflightwasdelayed": "Mijn vlucht was vertraagd",
+  "Myflightwascanceled": "Mijn vlucht was geannuleerd",
+  "DelayLength": "Delayed and counting",
+  "ReasonforDelayorCancellation": "Reden voor vertraging of annulering",
+
+
+  "I’ll need some passenger info to get things moving.": "Ik heb wat passagiersinformatie nodig om de zaak in gang te zetten.",
+  "firstName": "Voornaam",
+  "lastName": "Achternaam",
+  "Email": "E-Mail",
+  "PhoneNumber": "Telefoonnummer",
+
+
+  "What's your booking reference number?": "Wat is uw boekingsreferentienummer?",
+  "ReferenceNumber": "Referentienummer",
+  "How to find reference number?": "Hoe vindt u het referentienummer?",
+  "A booking reference is a code used by airlines to keep track of individual reservations. You can find your booking reference on your e-ticket or on any emails or documents you received from the airline after booking your trip. This code will most often be 6 digits, including both letters and numbers (for example DF87G#, REDYYD, or L5W4NW). Please make sure you don't include spaces.":"Een boekingsreferentie is een code die door luchtvaartmaatschappijen wordt gebruikt om individuele reserveringen bij te houden. U kunt uw boekingsreferentie vinden op uw e-ticket of op alle e-mails of documenten die u van de luchtvaartmaatschappij hebt ontvangen na het boeken van uw reis. Deze code bestaat meestal uit 6 cijfers, inclusief zowel letters als cijfers (bijvoorbeeld DF87G#, REDYYD of L5W4NW). Zorg ervoor dat u geen spaties opneemt.",
+
+
+  "AddYourAddress": "Voeg uw adres toe",
+  "AddressLine1": "Adresregel 1",
+  "Address Line 2 (Optional)": "Adresregel 2 (optioneel)",
+  "City": "Stad",
+  "Postal Code": "Postcode",
+  "State": "Staat",
+  "Country": "Land",
+
+
+  "Select assistance type": "Selecteer het type hulp",
+  "Food": "Eten",
+  "Accommodation": "Accommodatie",
+  "Transport": "Vervoer",
+  "None": "Geen",
+  "Assistance Details (if any)": "Details van de hulp (indien van toepassing)",
+
+
+  "Flight Cancellation/Delay Agreement": "Overeenkomst voor annulering/vertraging van vluchten",
+  "I ": "Ik ",
+  "agree to the following terms and conditions:":"ga akkoord met de volgende voorwaarden:",
+  "I authorize Emporium Concierge to represent me in filing a claim for compensation against the airline for a flight delay, cancellation, or denied boarding.": "Ik machtig Emporium Concierge om mij te vertegenwoordigen bij het indienen van een schadeclaim tegen de luchtvaartmaatschappij voor een vertraagde vlucht, annulering of geweigerd instappen.",
+  "I understand that Emporium Concierge works on a no-win, no-fee basis, and that I will not be responsible for any fees unless my claim is successful.": "Ik begrijp dat Emporium Concierge werkt op basis van `no cure, no pay` en dat ik niet verantwoordelijk ben voor eventuele kosten, tenzij mijn claim succesvol is.",
+  "I agree to provide Emporium Concierge with all of the necessary information and documentation to support my claim.": "Ik ga ermee akkoord Emporium Concierge te voorzien van alle benodigde informatie en documentatie om mijn claim te ondersteunen.",
+  "I understand that Emporium Concierge may contact me with questions about my claim.": "Ik begrijp dat Emporium Concierge contact met mij kan opnemen over vragen over mijn claim.",
+  "I agree to be bound by the terms and conditions of Emporium Concierge's Flight Cancellation/Delay Agreement.": "Ik ga akkoord met de voorwaarden van Emporium Concierge's Overeenkomst voor annulering/vertraging van vluchten.",
+  "By signing below, I agree to the terms and conditions of this agreement.": "Door hieronder te ondertekenen, ga ik akkoord met de voorwaarden van deze overeenkomst.",
+  "localedate": "nl",
+
+
+ "Select Language": "Select Language",
+  "Flying Details": "Flying Details",
+  "Depature Date": "Depature Date",
+  "Flight Details": "Flight Details",
+  "Incident": "Incident",
+  "Passenger Details": "Passenger Details",
+  "Address": "Address",
+  "Reference No": "Reference No",
+  "Assistance Details": "Assistance Details",
+  "Claim": "Claim",
+
+
+  "Thank you for submitting your claim to Emporium Concierge. We have received your information and it has been passed on to our legal team for review.":"Bedankt voor het indienen van uw claim bij Emporium Concierge. We hebben uw gegevens ontvangen en doorgestuurd naar ons juridisch team ter beoordeling.",
+  "We will contact you within 2 business days to provide an update on the status of your claim. In the meantime, please do not hesitate to contact us if you have any questions.":"Binnen 2 werkdagen nemen wij contact met u op om u een update te geven over de status van uw claim. Aarzel in de tussentijd niet om contact met ons op te nemen als u vragen heeft.",
+  "Thank you for your patience and understanding.":"Bedankt voor uw geduld en begrip.",
+  "Sincerely,":"Met vriendelijke groet,",
+  "The Emporium Concierge Travel Claims Team":"Het Emporium Concierge Reisclaims Team",
+
+
+  "Terms And Conditions": "Algemene voorwaarden",
+  "Emporium Concierge Terms and Conditions": "Emporium Concierge Algemene Voorwaarden",
+  "Welcome to Emporium Concierge, the Justice as a Service provider. These Terms and Conditions (the 'Terms') govern the delivery of our services to you and constitute a binding agreement between you and Emporium Concierge, a trading name of Optimus Consortium Limited ('Emporium Concierge,' 'we,' 'us,' or 'our').": "Welkom bij Emporium Concierge, de aanbieder van Justice as a Service. Deze Algemene Voorwaarden (de 'Voorwaarden') bepalen de levering van onze diensten aan u en vormen een bindende overeenkomst tussen u en Emporium Concierge, een handelsnaam van Optimus Consortium Limited ('Emporium Concierge', 'wij', 'ons' of 'onze').",
+  "1. Definitions": "1. Definities",
+  
+  "In these Terms, certain terms have specific meanings, including:":"In deze Voorwaarden hebben bepaalde termen specifieke betekenissen, waaronder:",
+  "'Agreement': an agreement between a Customer and Emporium Concierge for the delivery of Justice as a Service.":"'Overeenkomst': een overeenkomst tussen een Klant en Emporium Concierge voor de levering van Justice as a Service.",
+  "'Emporium Concierge': Emporium Concierge, a trading name of Optimus Consortium Limited.":"'Emporium Concierge': Emporium Concierge, een handelsnaam van Optimus Consortium Limited.",
+  "'Air Passenger Rights Regulation': any law, regulation, directive, international convention, or similar, whether issued on state, federal, EU, national, international, or regional level, and case law, that establishes rules on monetary compensation, damages, or refund to passengers in the event of overbooked, delayed, cancelled, or otherwise disrupted flights or luggage claims.": "'Luchtvaartpassagiersrechtenregelgeving': elke wet, verordening, richtlijn, internationale conventie of soortgelijke, uitgevaardigd op staats-, federaal, EU-, nationaal, internationaal of regionaal niveau, en jurisprudentie die regels vaststelt voor monetaire compensatie, schadevergoeding of terugbetaling aan passagiers in het geval van overboekte, vertraagde, geannuleerde of anderszins verstoord vluchten of bagageclaims.",
+  "'Assignment Form': the electronic document, whereby the Customer and Emporium Concierge agree that Emporium Concierge shall become the owner of the Claim, subject to the terms and conditions of the document, in order to collect and receive payments.":"'Cessieformulier': het elektronische document, waarbij de Klant en Emporium Concierge overeenkomen dat Emporium Concierge de eigenaar wordt van de Vordering, onderhevig aan de voorwaarden van het document, om betalingen te innen en te ontvangen.",
+  "'Authority Document': a document which authorises Emporium Concierge and/or one of Emporium Concierge's affiliates or partners to act on behalf of the Customer.": "'Machtigingsdocument': een document dat Emporium Concierge en/of een van Emporium Concierge's gelieerde ondernemingen of partners machtigt om namens de Klant te handelen.",
+  "'Claim': any claim against an airline for monetary compensation, damages, or refund pursuant to Air Passenger Rights Regulations or an airline's goodwill compensation.":"'Vordering': elke vordering tegen een luchtvaartmaatschappij voor monetaire compensatie, schadevergoeding of terugbetaling op grond van Luchtvaartpassagiersrechtenregelgeving of een luchtvaartmaatschappij's goodwill compensatie.",
+  "'Customer(s)': person(s) that has accepted these Terms. May also be referred to as 'Client' on some documents.":"'Klant(en)': persoon (personen) die deze Voorwaarden heeft aanvaard. Kan ook worden aangeduid als 'Cliënt' op sommige documenten.",
+  "'Eligibility Service': is Emporium Concierge's delivery of its state-of-the-art claim eligibility determination through software.":"'Toelatingsdienst': is de levering van Emporium Concierge's state-of-the-art claim toelaatbaarheidsbepaling via software.",
+  "'Flight Compensation': total amount of money paid by an airline in relation to a Claim as compensation, refund, damages, settlement, a gesture of goodwill, or otherwise, to the Customer or Emporium Concierge after the Customer has accepted these Terms.":"'Vluchtcompensatie': totaalbedrag aan geld dat door een luchtvaartmaatschappij wordt betaald in verband met een Vordering als compensatie, terugbetaling, schadevergoeding, schikking, een gebaar van goodwill of anderszins, aan de Klant of Emporium Concierge nadat de Klant deze Voorwaarden heeft aanvaard.",
+  "'Information Service': is Emporium Concierge's provision of flight information, airline information, airport information, other travel-related information, information about air passenger rights, and consumer protection laws.":"'Informatiedienst': is de verstrekking van vluchtinformatie, luchtvaartmaatschappij-informatie, luchthaveninformatie, andere reisgerelateerde informatie, informatie over luchtreizigersrechten en consumentenbeschermingswetten door Emporium Concierge.",
+  "'Justice as a Service': is Emporium Concierge's pursuit of a Claim, including, if necessary, by Legal Action.":"'Justice as a Service': is het nastreven van een Vordering door Emporium Concierge, inclusief, indien nodig, door juridische stappen te ondernemen.",
+  "'Legal Action': filing a Claim with a court or a government body, such as a national enforcement body (NEB), or handing over a Claim to a contracted legal representative, such as an attorney or law firm.":"'Juridische Actie': het indienen van een Vordering bij een rechtbank of een overheidsinstantie, zoals een nationaal handhavingsorgaan (NEB), of het overdragen van een Vordering aan een gecontracteerde juridische vertegenwoordiger, zoals een advocaat of advocatenkantoor.",
+  "2. Description of Justice as a Service":"2. Beschrijving van Justice as a Service",
+  
+  "Emporium Concierge provides Justice as a Service to assert the Customer's Claim for Flight Compensation from the operating airline on the basis of EC 261 or any other Air Passenger Rights Regulation applicable to the Customer's particular air travel. We receive flight data and information from the Customer through our website, email, other electronic or software solutions supported by Emporium Concierge, or phone. To pursue the Claim successfully, we need the Customer's submitted Assignment Form or Authority Document, which they can send to us via the web form or using email, or postal service. We prepare a request for payment and send it to the operating airline without unreasonable delay and handle all further correspondence. If Flight Compensation is paid, we charge our Service Fee. If the operating airline fails to pay Flight Compensation within a reasonable period after being notified by us and provided the case may be asserted with adequate certainty, we may propose and initiate Legal Action to pursue the Claim. In the event that Legal Action is undertaken as advised and Flight Compensation is paid, we charge the Legal Action Fee in addition to the Service Fee. If a contracted legal representative is used for Legal Action, the Customer authorizes us to grant the legal representative access to all of the data communicated to us and to transfer information concerning the proceedings to us. We reserve the right to contact the Customer and actively pursue the Claim again in the event of changes affecting the Claim's prospects of success.":"Emporium Concierge biedt Justice as a Service aan om de Vordering van de Klant voor Vluchtcompensatie van de uitvoerende luchtvaartmaatschappij te doen gelden op basis van EC 261 of enige andere Luchtvaartpassagiersrechtenregelgeving die van toepassing is op de specifieke luchtvaartreis van de Klant. Wij ontvangen vluchtgegevens en informatie van de Klant via onze website, e-mail, andere elektronische of softwareoplossingen ondersteund door Emporium Concierge, of telefoon. Om de Vordering succesvol na te streven, hebben we het door de Klant ingediende Cessieformulier of Machtigingsdocument nodig, dat ze ons kunnen toesturen via het webformulier of via e-mail of post. We bereiden een verzoek om betaling voor en sturen het zonder onredelijke vertraging naar de uitvoerende luchtvaartmaatschappij en behandelen alle verdere correspondentie. Als Vluchtcompensatie wordt uitbetaald, rekenen we onze Servicekosten aan. Als de uitvoerende luchtvaartmaatschappij niet binnen een redelijke termijn na kennisgeving door ons Vluchtcompensatie uitbetaalt en de zaak met voldoende zekerheid kan worden bevestigd, kunnen we Juridische Actie voorstellen en starten om de Vordering na te streven. Als Juridische Actie wordt ondernomen zoals geadviseerd en Vluchtcompensatie wordt uitbetaald, rekenen we de Juridische Actiekosten aan, naast de Servicekosten. Als een gecontracteerde juridische vertegenwoordiger wordt gebruikt voor Juridische Actie, machtigt de Klant ons om de juridische vertegenwoordiger toegang te geven tot alle aan ons medegedeelde gegevens en om informatie over de procedure aan ons door te geven. We behouden ons het recht voor om contact op te nemen met de Klant en de Vordering opnieuw actief na te streven in geval van wijzigingen die van invloed zijn op de slagingskansen van de Vordering.",
+  "If we or the contracted legal representative institutes legal proceedings to pursue a Claim, we will cover any costs incurred in the event the lawsuit is lost. In the event the lawsuit is won, or a settlement has been reached between the airline and us, we will cover any costs incurred that are not covered by the airline. The Customer acknowledges that it is the sole decision of Emporium Concierge to accept any settlement offer since the Customer has assigned the Claim to us. In case we act on behalf of the Customer pursuant to an Authority Document, the Customer authorizes us to accept or reject settlement offers based on our experience with the airline and the advice from external legal representatives. We may pursue the Claim in our own name with the assigned Claim, with or without the help of a legal representative. Where appropriate and/or legally necessary, we may reassign the Claim to the Customer and the Customer agrees to grant us an Authority Document to deliver Justice as a Service and collect and/or receive payments.":"Als wij of de gecontracteerde juridische vertegenwoordiger gerechtelijke stappen ondernemen om een Vordering na te streven, vergoeden wij alle kosten die zijn gemaakt in het geval het proces wordt verloren. In het geval het proces wordt gewonnen, of er is een schikking getroffen tussen de luchtvaartmaatschappij en ons, zullen wij alle gemaakte kosten vergoeden die niet door de luchtvaartmaatschappij worden gedekt. De Klant erkent dat het uitsluitend aan Emporium Concierge is om een schikkingsaanbod te accepteren, aangezien de Klant de Vordering aan ons heeft overgedragen. In het geval dat wij namens de Klant handelen op basis van een Machtigingsdocument, machtigt de Klant ons om schikkingsaanbiedingen te accepteren of af te wijzen op basis van onze ervaring met de luchtvaartmaatschappij en het advies van externe juridische vertegenwoordigers. We kunnen de Vordering in onze eigen naam nastreven met de overgedragen Vordering, met of zonder de hulp van een juridische vertegenwoordiger. Indien passend en/of wettelijk noodzakelijk, kunnen we de Vordering opnieuw aan de Klant toewijzen en stemt de Klant ermee in om ons een Machtigingsdocument te verlenen om Justice as a Service te verlenen en betalingen te innen en/of te ontvangen.",
+  "3. Data and Information from the Customer":"3. Gegevens en informatie van de Klant",
+
+  "Upon request by Emporium Concierge, the Customer or their fellow passengers will provide us with all data or information that is required for the execution of the Agreement. The Customer warrants that the data and information provided is correct, complete and true, and where applicable, given with the consent of the fellow passengers. The Customer agrees to fully indemnify Emporium Concierge in all respects for all third-party claims including, but not limited to, incorrect Customer communications, provision of incorrect data/information, and fraudulent conduct. In case of incorrect data/information and fraudulent conduct, we reserve the right to terminate the Agreement with immediate effect. If the Agreement is terminated in accordance with this paragraph, the Customer will not have any right to compensation of any kind.":"Op verzoek van Emporium Concierge zullen de Klant of hun medepassagiers ons voorzien van alle gegevens of informatie die nodig is voor de uitvoering van de Overeenkomst. De Klant garandeert dat de verstrekte gegevens en informatie juist, volledig en waarheidsgetrouw zijn en, indien van toepassing, met de toestemming van de medepassagiers zijn gegeven. De Klant stemt ermee in om Emporium Concierge volledig te vrijwaren voor alle vorderingen van derden, inclusief maar niet beperkt tot, onjuiste communicatie van de Klant, verstrekking van onjuiste gegevens/informatie en frauduleus handelen. In geval van onjuiste gegevens/informatie en frauduleus handelen behouden wij ons het recht voor om de Overeenkomst met onmiddellijke ingang te beëindigen. Indien de Overeenkomst wordt beëindigd in overeenstemming met deze paragraaf, heeft de Klant geen recht op enige vergoeding van welke aard dan ook.",
+  "4. Right of Withdrawal":"4. Recht van herroeping",
+
+  "If the Customer qualifies as a consumer in accordance with EU consumer regulations, they have a statutory right of withdrawal. The Customer can withdraw their acceptance of the Agreement within 14 days from the conclusion of the Agreement (e.g., letter, email) without the need to specify any reasons. To exercise their right to withdrawal, the withdrawal must be communicated within the 14-day period mentioned above, and it must clearly state their wish to withdraw from the Agreement. Due to the nature of the service provided to the Customer, they cannot withdraw from our Agreement if we have informed the Customer that the airline has accepted the Claim, as in such an event we have completed the service they requested.":"Als de klant in overeenstemming met de EU-consumentenvoorschriften als consument kwalificeert, heeft hij een wettelijk herroepingsrecht. De klant kan zijn aanvaarding van de Overeenkomst binnen 14 dagen na het sluiten van de overeenkomst (bijv. brief, e-mail) intrekken zonder opgave van redenen. Om hun herroepingsrecht uit te oefenen, moet de herroeping binnen de hierboven genoemde termijn van 14 dagen worden meegedeeld en moet duidelijk worden vermeld dat zij de Overeenkomst willen herroepen. Vanwege de aard van de dienst die aan de klant wordt verleend, kunnen zij zich niet terugtrekken uit onze Overeenkomst als wij de klant hebben meegedeeld dat de luchtvaartmaatschappij de Claim heeft aanvaard, aangezien wij in dat geval de door hen gevraagde dienst hebben voltooid.",
+  "5. Final Provisions":"5. Slotbepalingen",
+
+  "Emporium Concierge is authorized to alter these Terms and any associated Price List and to set forth additional conditions at any time and without notice. However, changes with a negative effect on the Client will not apply to the Client unless they agree to new changes. The laws of Gibraltar apply to these Terms, the Assignment Form, and the Agreement between Emporium Concierge and the Customer, without regard to conflict of laws principles. Should any provision of these Terms be or become void, illegal, or unenforceable, this shall not affect the validity of the remaining provisions in any way whatsoever. Rights and obligations fully or partially related to any submitted Claim may be transferred without restrictions by Emporium Concierge to any entity within the corporate group of Emporium Concierge and by Emporium Concierge to third parties. The English version of these Terms shall prevail in case of inconsistency with any other language version.":"Emporium Concierge is bevoegd om deze Voorwaarden en alle bijbehorende prijslijsten te wijzigen en om op elk moment en zonder voorafgaande kennisgeving aanvullende voorwaarden vast te stellen. Wijzigingen met een negatief effect op de klant zijn echter niet van toepassing op de Klant, tenzij deze akkoord gaat met nieuwe wijzigingen. De wetten van Gibraltar zijn van toepassing op deze voorwaarden, het opdrachtformulier en de overeenkomst tussen Emporium Concierge en de klant, zonder rekening te houden met conflicterende rechtsbeginselen. Indien enige bepaling van deze voorwaarden nietig, onwettig of niet-afdwingbaar is of wordt, heeft dit op geen enkele wijze invloed op de geldigheid van de overige bepalingen. Rechten en verplichtingen die geheel of gedeeltelijk verband houden met een ingediende Claim kunnen zonder beperkingen worden overgedragen door Emporium Concierge aan elke entiteit binnen de bedrijfsgroep van Emporium Concierge en door Emporium Concierge aan derden. De Engelse versie van deze Voorwaarden prevaleert in geval van inconsistentie met een andere taalversie.",
+  "We use cookies 🍪 to provide you with the best browsing experience. By using Emporium Concierge, you agree to our cookie policy, which can be found on our website.":"We gebruiken cookies 🍪 om u de beste surfervaring te bieden. Door Emporium Concierge te gebruiken, stemt u in met ons cookiebeleid, dat u kunt vinden op onze website.",
+  "If you have any questions or concerns about these Terms, please contact us at travel@emporiumconcierge.com. Thank you for choosing Emporium Concierge for your Justice as a Service needs.":"Als u vragen of opmerkingen heeft over deze Algemene Voorwaarden, neem dan contact met ons op via travel@emporiumconcierge.com. Bedankt dat u voor Emporium Concierge heeft gekozen voor uw Justice as a Service behoeften."
+}

@@ -51,14 +51,14 @@ const IncidentCheckForm = ({ errors, values, handleChange }) => {
                   value="delayed"
                   control={<Radio />}
                   label={t(
-                    "My flight was delayed"
+                    "Myflightwasdelayed"
                   )}
                 />
                 <FormControlLabel
                   value="canceled"
                   control={<Radio />}
                   label={t(
-                    "My flight was canceled"
+                    "Myflightwascanceled"
                   )}
                 />
               </RadioGroup>
@@ -100,7 +100,7 @@ const IncidentCheckForm = ({ errors, values, handleChange }) => {
             {" "}
             <TextField
               name="delayLength"
-              label={t('Delay Length')}
+              label={t('DelayLength')}
               value={values.delayLength}
               onChange={handleChange}
               error={!!errors.delayLength}
@@ -119,7 +119,7 @@ const IncidentCheckForm = ({ errors, values, handleChange }) => {
             {" "}
             <TextField
               name="delayReason"
-              label={t('Reason for Delay or Cancellation')}
+              label={t('ReasonforDelayorCancellation')}
               value={values.delayReason}
               onChange={handleChange}
               multiline

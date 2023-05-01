@@ -1,0 +1,126 @@
+{
+
+  "formTitle": "Formularz Wniosku o opóźnienie i anulowanie lotu w UE",
+  "Eligibility Check": "Eligibility Check",
+  "Additional Information": "Additional Information",
+  "Finish": "Finish",
+  "Previous": "Previous",
+  "Submit": "Submit",
+  "Next": "Next",
+  "Continue": "Continue",
+
+  "What was your scheduled departure date?":"What was your scheduled departure date?",
+  
+
+  "Hi! Let’s see if the airline owes you compensation. Where were you flying to?": "Hi! Let’s see if the airline owes you compensation. Where were you flying to?",
+  "departingFrom": "Departing from",
+  "Final destination": "Final destination",
+
+
+  "OK, I’ll just need a few flight details so I can check your eligibility.": "OK, I’ll just need a few flight details so I can check your eligibility.",
+  "Airline": "Airline",
+  "FlightNumber": "Flight Number",
+  
+
+  "Now onto the flight disruption itself. What actually happened?": "Now onto the flight disruption itself. What actually happened?",
+  "Myflightwasdelayed": "My flight was delayed",
+  "Myflightwascanceled": "My flight was canceled",
+  "DelayLength": "Opóźnione i liczące",
+  "ReasonforDelayorCancellation": "Reason for Delay or Cancellation",
+
+
+  "I’ll need some passenger info to get things moving.": "I’ll need some passenger info to get things moving.",
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "Email": "Email",
+  "PhoneNumber": "Phone Number",
+
+
+  "What's your booking reference number?": "What's your booking reference number?",
+  "ReferenceNumber": "Reference Number",
+  "How to find reference number?": "How to find reference number?",
+  "A booking reference is a code used by airlines to keep track of individual reservations. You can find your booking reference on your e-ticket or on any emails or documents you received from the airline after booking your trip. This code will most often be 6 digits, including both letters and numbers (for example DF87G#, REDYYD, or L5W4NW). Please make sure you don't include spaces.": "A booking reference is a code used by airlines to keep track of individual reservations. You can find your booking reference on your e-ticket or on any emails or documents you received from the airline after booking your trip. This code will most often be 6 digits, including both letters and numbers (for example DF87G#, REDYYD, or L5W4NW). Please make sure you don't include spaces.",
+
+
+  "AddYourAddress": "Add Your Address",
+  "AddressLine1": "Address Line 1",
+  "Address Line 2 (Optional)": "Address Line 2 (Optional)",
+  "City": "City",
+  "Postal Code": "Postal Code",
+  "State": "State",
+  "Country": "Country",
+
+
+  "Select assistance type": "Select assistance type",
+  "Food": "Food",
+  "Accommodation": "Accommodation",
+  "Transport": "Transport",
+  "None": "None",
+  "Assistance Details (if any)": "Assistance Details (if any)",
+
+
+  "Flight Cancellation/Delay Agreement": "Umowa o odwołaniu/opóźnieniu lotu",
+  "I ": "Ja ",
+  "agree to the following terms and conditions:":"zgadzam się na następujące warunki:",
+  "I authorize Emporium Concierge to represent me in filing a claim for compensation against the airline for a flight delay, cancellation, or denied boarding.": "Upoważniam Emporium Concierge do reprezentowania mnie w zgłaszaniu roszczenia o odszkodowanie wobec linii lotniczej za opóźnienie lotu, jego odwołanie lub odmowę wejścia na pokład.",
+  "I understand that Emporium Concierge works on a no-win, no-fee basis, and that I will not be responsible for any fees unless my claim is successful.": "Rozumiem, że Emporium Concierge działa na zasadzie `brak wygranej, brak opłat` i nie będę odpowiedzialny za żadne opłaty, chyba że moje roszczenie zostanie uwzględnione.",
+  "I agree to provide Emporium Concierge with all of the necessary information and documentation to support my claim.": "Zgadzam się dostarczyć Emporium Concierge wszystkich niezbędnych informacji i dokumentów, które będą potrzebne do wsparcia mojego roszczenia.",
+  "I understand that Emporium Concierge may contact me with questions about my claim.": "Rozumiem, że Emporium Concierge może skontaktować się ze mną w celu zadania pytań dotyczących mojego roszczenia.",
+  "I agree to be bound by the terms and conditions of Emporium Concierge's Flight Cancellation/Delay Agreement.": "Zgadzam się na przestrzeganie warunków umowy o odwołaniu/opóźnieniu lotu Emporium Concierge.",
+  "By signing below, I agree to the terms and conditions of this agreement.": "Podpisując poniżej, zgadzam się na warunki niniejszej umowy.",
+  "localedate": "pl",
+
+
+  "Select Language": "Select Language",
+  "Flying Details": "Flying Details",
+  "Depature Date": "Depature Date",
+  "Flight Details": "Flight Details",
+  "Incident": "Incident",
+  "Passenger Details": "Passenger Details",
+  "Address": "Address",
+  "Reference No": "Reference No",
+  "Assistance Details": "Assistance Details",
+  "Claim": "Claim",
+
+
+  "Thank you for submitting your claim to Emporium Concierge. We have received your information and it has been passed on to our legal team for review.":"Dziękujemy za zgłoszenie roszczenia do Emporium Concierge. Otrzymaliśmy Twoje informacje i przekazaliśmy je do naszego zespołu prawnego w celu rozpatrzenia.",
+  "We will contact you within 2 business days to provide an update on the status of your claim. In the meantime, please do not hesitate to contact us if you have any questions.":"Skontaktujemy się z Tobą w ciągu 2 dni roboczych, aby dostarczyć aktualizację na temat statusu Twojego roszczenia. W międzyczasie prosimy o kontakt, jeśli masz pytania.",
+  "Thank you for your patience and understanding.":"Dziękujemy za cierpliwość i zrozumienie.",
+  "Sincerely,":"Z poważaniem,",
+  "The Emporium Concierge Travel Claims Team":"Zespół ds. roszczeń podróżnych Emporium Concierge",
+
+
+  "Terms And Conditions": "Warunki i zasady",
+  "Emporium Concierge Terms and Conditions": "Regulamin Emporium Concierge",
+  "Welcome to Emporium Concierge, the Justice as a Service provider. These Terms and Conditions (the 'Terms') govern the delivery of our services to you and constitute a binding agreement between you and Emporium Concierge, a trading name of Optimus Consortium Limited ('Emporium Concierge,' 'we,' 'us,' or 'our').": "Witamy w Emporium Concierge, dostawcy Usług Sprawiedliwości. Niniejsze Warunki i Regulamin ('Warunki') regulują świadczenie naszych usług dla Ciebie i stanowią wiążącą umowę między Tobą a Emporium Concierge, nazwą handlową Optimus Consortium Limited ('Emporium Concierge', 'my', 'nas' lub 'nasz').",
+  "1. Definitions": "1. Definicje",
+
+  "In these Terms, certain terms have specific meanings, including:":"W tych Warunkach pewne terminy mają określone znaczenia, w tym:",
+  "'Agreement': an agreement between a Customer and Emporium Concierge for the delivery of Justice as a Service.":"'Umowa': umowa między Klientem a Emporium Concierge dotycząca świadczenia Usług Sprawiedliwości.",
+  "'Emporium Concierge': Emporium Concierge, a trading name of Optimus Consortium Limited.":"'Emporium Concierge': Emporium Concierge, nazwa handlowa Optimus Consortium Limited.",
+  "'Air Passenger Rights Regulation': any law, regulation, directive, international convention, or similar, whether issued on state, federal, EU, national, international, or regional level, and case law, that establishes rules on monetary compensation, damages, or refund to passengers in the event of overbooked, delayed, cancelled, or otherwise disrupted flights or luggage claims.": "'Regulacja praw pasażerów lotniczych': wszelkie prawo, rozporządzenie, dyrektywa, konwencja międzynarodowa lub podobne, wydane na szczeblu państwowym, federalnym, unijnym, krajowym, międzynarodowym lub regionalnym, a także orzecznictwo, które ustanawia zasady dotyczące odszkodowań, zadośćuczynienia lub zwrotu pieniędzy pasażerom w przypadku przepełnionych, opóźnionych, odwołanych lub w inny sposób zakłóconych lotów lub roszczeń bagażowych.",
+  "'Assignment Form': the electronic document, whereby the Customer and Emporium Concierge agree that Emporium Concierge shall become the owner of the Claim, subject to the terms and conditions of the document, in order to collect and receive payments.":"'Formularz Cesji': elektroniczny dokument, w którym Klient i Emporium Concierge uzgadniają, że Emporium Concierge stanie się właścicielem Roszczenia, z zastrzeżeniem warunków tego dokumentu, w celu pobrania i otrzymania płatności.",
+  "'Authority Document': a document which authorises Emporium Concierge and/or one of Emporium Concierge's affiliates or partners to act on behalf of the Customer.": "'Dokument Upoważnienia': dokument, który upoważnia Emporium Concierge i/lub jedno z podmiotów powiązanych z Emporium Concierge lub partnerów do działania w imieniu Klienta.",
+  "'Claim': any claim against an airline for monetary compensation, damages, or refund pursuant to Air Passenger Rights Regulations or an airline's goodwill compensation.":"'Roszczenie': wszelkie roszczenie wobec linii lotniczej o odszkodowanie, zadośćuczynienie lub zwrot pieniędzy na podstawie Regulacji praw pasażerów lotniczych lub dobrowolnej rekompensaty linii lotniczej.",
+  "'Customer(s)': person(s) that has accepted these Terms. May also be referred to as 'Client' on some documents.":"'Klient(ów)': osoba(y), która(e) zaakceptowała(y) niniejsze Warunki. Może być również określana jako 'Zleceniodawca' w niektórych dokumentach.",
+  "'Eligibility Service': is Emporium Concierge's delivery of its state-of-the-art claim eligibility determination through software.":"'Usługa Weryfikacji Uprawnień': świadczenie przez Emporium Concierge zaawansowanego oprogramowania do ustalania uprawnienia do roszczenia.",
+  "'Flight Compensation': total amount of money paid by an airline in relation to a Claim as compensation, refund, damages, settlement, a gesture of goodwill, or otherwise, to the Customer or Emporium Concierge after the Customer has accepted these Terms.":"'Odszkodowanie za lot': całkowita kwota pieniędzy zapłacona przez linię lotniczą w związku z roszczeniem jako odszkodowanie, zwrot, odszkodowanie, ugoda, gest dobrej woli lub w inny sposób na rzecz Klienta lub konsjerża Emporium po zaakceptowaniu przez Klienta niniejszych Warunków.",
+  "'Information Service': is Emporium Concierge's provision of flight information, airline information, airport information, other travel-related information, information about air passenger rights, and consumer protection laws.":"'Usługa informacyjna': świadczenie przez Emporium Concierge informacji o lotach, linii lotniczych, informacji lotniskowych, innych informacji związanych z podróżowaniem, informacji o prawach pasażerów lotniczych i prawach ochrony konsumentów.",
+  "'Justice as a Service': is Emporium Concierge's pursuit of a Claim, including, if necessary, by Legal Action.":"'Usługa Sprawiedliwości': dążenie Emporium Concierge do realizacji Roszczenia, w tym, w razie potrzeby, za pomocą Działania Prawnego.",
+  "'Legal Action': filing a Claim with a court or a government body, such as a national enforcement body (NEB), or handing over a Claim to a contracted legal representative, such as an attorney or law firm.":"'Działanie Prawne': wniesienie Roszczenia do sądu lub organu administracji publicznej, takiego jak krajowy organ egzekwowania prawa (NEB), lub przekazanie Roszczenia umówionemu przedstawicielowi prawnemu, takiemu jak adwokat lub kancelaria prawna.",
+  "2. Description of Justice as a Service":"2. Opis Usługi Sprawiedliwości",
+ 
+  "Emporium Concierge provides Justice as a Service to assert the Customer's Claim for Flight Compensation from the operating airline on the basis of EC 261 or any other Air Passenger Rights Regulation applicable to the Customer's particular air travel. We receive flight data and information from the Customer through our website, email, other electronic or software solutions supported by Emporium Concierge, or phone. To pursue the Claim successfully, we need the Customer's submitted Assignment Form or Authority Document, which they can send to us via the web form or using email, or postal service. We prepare a request for payment and send it to the operating airline without unreasonable delay and handle all further correspondence. If Flight Compensation is paid, we charge our Service Fee. If the operating airline fails to pay Flight Compensation within a reasonable period after being notified by us and provided the case may be asserted with adequate certainty, we may propose and initiate Legal Action to pursue the Claim. In the event that Legal Action is undertaken as advised and Flight Compensation is paid, we charge the Legal Action Fee in addition to the Service Fee. If a contracted legal representative is used for Legal Action, the Customer authorizes us to grant the legal representative access to all of the data communicated to us and to transfer information concerning the proceedings to us. We reserve the right to contact the Customer and actively pursue the Claim again in the event of changes affecting the Claim's prospects of success.":"Emporium Concierge świadczy usługi Justice as a Service w celu dochodzenia roszczenia Klienta o odszkodowanie za lot od obsługującej linii lotniczej na podstawie WE 261 lub innych przepisów dotyczących praw pasażerów lotniczych mających zastosowanie do konkretnej podróży lotniczej klienta. Dane i informacje o lotach otrzymujemy od klienta za pośrednictwem naszej strony internetowej, poczty elektronicznej, innych rozwiązań elektronicznych lub programowych obsługiwanych przez Emporium Concierge lub telefonu. Aby skutecznie realizować roszczenie, potrzebujemy przesłanego przez Klienta formularza cesji lub dokumentu upoważnienia, który może nam wysłać za pośrednictwem formularza internetowego lub za pomocą poczty elektronicznej lub usługi pocztowej. Przygotowujemy wniosek o płatność i wysyłamy go do obsługującej linii lotniczej bez nieuzasadnionej zwłoki i obsługujemy całą dalszą korespondencję. Jeśli wypłacane jest odszkodowanie za lot, pobieramy opłatę za Usługę. Jeśli obsługująca linia lotnicza nie wypłaci odszkodowania za lot w rozsądnym terminie po otrzymaniu przez nas powiadomienia i pod warunkiem, że sprawa może zostać doniesiona z odpowiednią pewnością, możemy zaproponować i wszcząć postępowanie prawne w celu dochodzenia roszczenia. W przypadku podjęcia działań prawnych zgodnie z zaleceniami i wypłacenia odszkodowania za lot, oprócz opłaty za obsługę pobieramy opłatę za czynności prawne. Jeśli do czynności prawnych wykorzystywany jest zakontraktowany przedstawiciel prawny, Klient upoważnia nas do udzielenia przedstawicielowi prawnemu dostępu do wszystkich przekazanych nam danych oraz do przekazania nam informacji dotyczących postępowania. Zastrzegamy sobie prawo do skontaktowania się z klientem i ponownego aktywnego dochodzenia roszczenia w przypadku zmian wpływających na perspektywy powodzenia roszczenia.",
+  "If we or the contracted legal representative institutes legal proceedings to pursue a Claim, we will cover any costs incurred in the event the lawsuit is lost. In the event the lawsuit is won, or a settlement has been reached between the airline and us, we will cover any costs incurred that are not covered by the airline. The Customer acknowledges that it is the sole decision of Emporium Concierge to accept any settlement offer since the Customer has assigned the Claim to us. In case we act on behalf of the Customer pursuant to an Authority Document, the Customer authorizes us to accept or reject settlement offers based on our experience with the airline and the advice from external legal representatives. We may pursue the Claim in our own name with the assigned Claim, with or without the help of a legal representative. Where appropriate and/or legally necessary, we may reassign the Claim to the Customer and the Customer agrees to grant us an Authority Document to deliver Justice as a Service and collect and/or receive payments.":"Jeśli my lub zakontraktowany przedstawiciel prawny wszczmiemy postępowanie sądowe w celu dochodzenia roszczenia, pokryjemy wszelkie koszty poniesione w przypadku utraty pozwu. W przypadku wygrania pozwu lub zawarcia ugody między linią lotniczą a nami, pokryjemy wszelkie poniesione koszty, które nie są pokrywane przez linię lotniczą. Klient przyjmuje do wiadomości, że jedyną decyzją Emporium Concierge jest zaakceptowanie jakiejkolwiek oferty rozliczeniowej, ponieważ klient przekazał nam roszczenie. W przypadku, gdy działamy w imieniu Klienta zgodnie z dokumentem upoważnienia, Klient upoważnia nas do przyjęcia lub odrzucenia ofert rozliczeniowych w oparciu o nasze doświadczenia z linią lotniczą i porady zewnętrznych przedstawicieli prawnych. Możemy dochodzić roszczenia we własnym imieniu z przypisanym roszczeniem, z pomocą przedstawiciela prawnego lub bez niego. Tam, gdzie jest to stosowne i/lub prawnie konieczne, możemy ponownie przypisać roszczenie klientowi, a Klient zgadza się udzielić nam dokumentu upoważniającego do świadczenia usługi Justice as a Service oraz pobierania i/lub otrzymywania płatności.",
+  "3. Data and Information from the Customer":"3. Dane i informacje od Klienta",
+
+  "Upon request by Emporium Concierge, the Customer or their fellow passengers will provide us with all data or information that is required for the execution of the Agreement. The Customer warrants that the data and information provided is correct, complete and true, and where applicable, given with the consent of the fellow passengers. The Customer agrees to fully indemnify Emporium Concierge in all respects for all third-party claims including, but not limited to, incorrect Customer communications, provision of incorrect data/information, and fraudulent conduct. In case of incorrect data/information and fraudulent conduct, we reserve the right to terminate the Agreement with immediate effect. If the Agreement is terminated in accordance with this paragraph, the Customer will not have any right to compensation of any kind.":"Na żądanie Emporium Concierge, Klient lub inni pasażerowie udostępnią nam wszystkie dane lub informacje, które są wymagane do realizacji Umowy. Klient gwarantuje, że podane dane i informacje są poprawne, kompletne i prawdziwe, a w stosownych przypadkach, podane za zgodą współpasażerów. Klient zgadza się w pełni zabezpieczyć Emporium Concierge we wszystkich aspektach przed wszelkimi roszczeniami osób trzecich, w tym, ale nie ograniczając się do, nieprawidłowych komunikatów od Klienta, podawania nieprawidłowych danych/informacji i działania oszukańczego. W przypadku nieprawidłowych danych/informacji i działania oszukańczego zastrzegamy sobie prawo do natychmiastowego rozwiązania Umowy. Jeśli Umowa zostanie rozwiązana zgodnie z tym akapitem, Klient nie będzie miał prawa do odszkodowania jakiegokolwiek rodzaju.",
+  "4. Right of Withdrawal":"4. Prawo do odstąpienia",
+
+  "If the Customer qualifies as a consumer in accordance with EU consumer regulations, they have a statutory right of withdrawal. The Customer can withdraw their acceptance of the Agreement within 14 days from the conclusion of the Agreement (e.g., letter, email) without the need to specify any reasons. To exercise their right to withdrawal, the withdrawal must be communicated within the 14-day period mentioned above, and it must clearly state their wish to withdraw from the Agreement. Due to the nature of the service provided to the Customer, they cannot withdraw from our Agreement if we have informed the Customer that the airline has accepted the Claim, as in such an event we have completed the service they requested.":"Jeśli Klient kwalifikuje się jako konsument zgodnie z unijnymi przepisami dotyczącymi ochrony konsumentów, ma ustawowe prawo do odstąpienia. Klient może odstąpić od zawartej Umowy w ciągu 14 dni od jej zawarcia (np. list, e-mail) bez podawania żadnych powodów. Aby skorzystać z prawa do odstąpienia, odstąpienie musi być skomunikowane w ciągu 14-dniowego okresu, o którym mowa powyżej, i musi wyraźnie zawierać oświadczenie o życzeniu odstąpienia od Umowy. Ze względu na charakter świadczonych na rzecz Klienta usług, nie może on odstąpić od naszej Umowy, jeśli poinformowaliśmy Klienta, że linia lotnicza zaakceptowała Roszczenie, gdyż w takim przypadku zakończyliśmy świadczenie usług na żądanie Klienta.",
+  "5. Final Provisions":"5. Postanowienia końcowe",
+
+  "Emporium Concierge is authorized to alter these Terms and any associated Price List and to set forth additional conditions at any time and without notice. However, changes with a negative effect on the Client will not apply to the Client unless they agree to new changes. The laws of Gibraltar apply to these Terms, the Assignment Form, and the Agreement between Emporium Concierge and the Customer, without regard to conflict of laws principles. Should any provision of these Terms be or become void, illegal, or unenforceable, this shall not affect the validity of the remaining provisions in any way whatsoever. Rights and obligations fully or partially related to any submitted Claim may be transferred without restrictions by Emporium Concierge to any entity within the corporate group of Emporium Concierge and by Emporium Concierge to third parties. The English version of these Terms shall prevail in case of inconsistency with any other language version.":"Emporium Concierge ma prawo zmieniać niniejsze Warunki oraz wszelki związany z nimi Cennik i wprowadzać dodatkowe warunki w dowolnym czasie i bez uprzedzenia. Jednakże zmiany mające negatywny wpływ na Klienta nie będą miały zastosowania do Klienta, chyba że wyrazi on zgodę na nowe zmiany. Na niniejsze Warunki, Formularz Cesji i Umowę między Emporium Concierge a Klientem stosuje się prawo Gibraltaru, bez względu na zasady kolizji praw. Jeżeli jakiekolwiek postanowienie niniejszych Warunków będzie lub stanie się nieważne, nielegalne lub niewykonalne, nie wpłynie to w żaden sposób na ważność pozostałych postanowień. Prawa i obowiązki całkowicie lub częściowo związane z jakimkolwiek złożonym Roszczeniem mogą być bez ograniczeń przeniesione przez Emporium Concierge na dowolną jednostkę w ramach grupy korporacyjnej Emporium Concierge i przez Emporium Concierge na osoby trzecie. Wersja angielska niniejszych Warunków ma pierwszeństwo w przypadku niezgodności z wersją w jakimkolwiek innym języku.",
+  "We use cookies 🍪 to provide you with the best browsing experience. By using Emporium Concierge, you agree to our cookie policy, which can be found on our website.":"Używamy plików cookie 🍪, aby zapewnić Ci najlepsze wrażenia z przeglądania. Korzystając z Emporium Concierge, zgadzasz się na naszą politykę plików cookie, którą można znaleźć na naszej stronie internetowej.",
+  "If you have any questions or concerns about these Terms, please contact us at travel@emporiumconcierge.com. Thank you for choosing Emporium Concierge for your Justice as a Service needs.":"Jeśli masz pytania lub wątpliwości dotyczące tych Warunków, prosimy o kontakt z nami pod adresem travel@emporiumconcierge.com. Dziękujemy za wybranie Emporium Concierge do realizacji Twoich potrzeb związanych z Usługą Sprawiedliwości."
+}

@@ -1,0 +1,126 @@
+{
+
+  "formTitle": "EU Flight Delay and Cancellation Claim Form",
+  "Eligibility Check": "Eligibility Check",
+  "Additional Information": "Additional Information",
+  "Finish": "Finish ",
+  "Previous": "Previous ",
+  "Submit": "Submit",
+  "Next": "Next",
+  "Continue": "Continue",
+
+  "What was your scheduled departure date?":"What was your scheduled departure date?",
+  
+
+  "Hi! Let’s see if the airline owes you compensation. Where were you flying to?": "Hi! Let’s see if the airline owes you compensation. Where were you flying to?",
+  "departingFrom": "Departing from",
+  "Final destination": "Final destination",
+
+
+  "OK, I’ll just need a few flight details so I can check your eligibility.": "OK, jag behöver bara några flygdetaljer så jag kan kontrollera din berättigande.",
+  "Airline": "Flygbolag",
+  "FlightNumber": "Flygnummer",
+  
+
+  "Now onto the flight disruption itself. What actually happened?": "Nu till själva flygstörningen. Vad hände faktiskt?",
+  "Myflightwasdelayed": "Mitt flyg var försenat",
+  "Myflightwascanceled": "Mitt flyg blev inställt",
+  "DelayLength": "Försenad och räknande",
+  "ReasonforDelayorCancellation": "Anledning till förseningen eller inställningen",
+
+
+  "I’ll need some passenger info to get things moving.": "Jag behöver lite passagerarinformation för att få saker att röra sig.",
+  "firstName": "Förnamn",
+  "lastName": "Efternamn",
+  "Email": "E-post",
+  "PhoneNumber": "Telefonnummer",
+
+
+  "What's your booking reference number?": "Vad är ditt bokningsreferensnummer?",
+  "ReferenceNumber": "Referensnummer",
+  "How to find reference number?": "Hur du hittar referensnummer?",
+  "A booking reference is a code used by airlines to keep track of individual reservations. You can find your booking reference on your e-ticket or on any emails or documents you received from the airline after booking your trip. This code will most often be 6 digits, including both letters and numbers (for example DF87G#, REDYYD, or L5W4NW). Please make sure you don't include spaces.": "En bokningsreferens är en kod som används av flygbolag för att hålla koll på individuella reservationer. Du kan hitta din bokningsreferens på din e-biljett eller på några e-postmeddelanden eller dokument du mottog från flygbolaget efter att ha bokat din resa. Denna kod kommer oftast att bestå av 6 siffror, inklusive både bokstäver och siffror (till exempel DF87G#, REDYYD eller L5W4NW). Se till att du inte inkluderar mellanslag.",
+
+
+  "AddYourAddress": "Lägg till din adress",
+  "AddressLine1": "Adressrad 1",
+  "Address Line 2 (Optional)": "Adressrad 2 (valfritt)",
+  "City": "Stad",
+  "Postal Code": "Postnummer",
+  "State": "Delstat",
+  "Country": "Land",
+
+
+  "Select assistance type": "Välj assistanstyp",
+  "Food": "Mat",
+  "Accommodation": "Boende",
+  "Transport": "Transport",
+  "None": "Ingen",
+  "Assistance Details (if any)": "Assistansdetaljer (om några)",
+
+
+  "Flight Cancellation/Delay Agreement": "Avtalet om inställd/försenad flygning",
+  "I ": "Jag ",
+  "agree to the following terms and conditions:":"accepterar följande villkor:",
+  "I authorize Emporium Concierge to represent me in filing a claim for compensation against the airline for a flight delay, cancellation, or denied boarding.": "Jag ger Emporium Concierge fullmakt att representera mig vid framställan av ersättningsanspråk gentemot flygbolaget för försening, inställd flygning eller nekad ombordstigning.",
+  "I understand that Emporium Concierge works on a no-win, no-fee basis, and that I will not be responsible for any fees unless my claim is successful.": "Jag förstår att Emporium Concierge arbetar enligt principen `ingen vinst, inga avgifter` och att jag inte kommer att vara ansvarig för eventuella avgifter om mitt anspråk inte är framgångsrikt.",
+  "I agree to provide Emporium Concierge with all of the necessary information and documentation to support my claim.": "Jag accepterar att tillhandahålla Emporium Concierge all nödvändig information och dokumentation för att stödja mitt anspråk.",
+  "I understand that Emporium Concierge may contact me with questions about my claim.": "Jag förstår att Emporium Concierge kan kontakta mig med frågor om mitt anspråk.",
+  "I agree to be bound by the terms and conditions of Emporium Concierge's Flight Cancellation/Delay Agreement.": "Jag accepterar att vara bunden av villkoren i Emporium Concierges avtal om inställd/försenad flygning.",
+  "By signing below, I agree to the terms and conditions of this agreement.": "Genom att underteckna nedan accepterar jag villkoren i detta avtal.",
+  "localedate": "sv",
+
+
+  "Select Language": "Select Language",
+  "Flying Details": "Flying Details",
+  "Depature Date": "Depature Date",
+  "Flight Details": "Flight Details",
+  "Incident": "Incident",
+  "Passenger Details": "Passenger Details",
+  "Address": "Address",
+  "Reference No": "Reference No",
+  "Assistance Details": "Assistance Details",
+  "Claim": "Claim",
+
+
+  "Thank you for submitting your claim to Emporium Concierge. We have received your information and it has been passed on to our legal team for review.":"Tack för att du skickade in ditt krav till Emporium Concierge. Vi har tagit emot din information och den har skickats vidare till vårt juridiska team för granskning.",
+  "We will contact you within 2 business days to provide an update on the status of your claim. In the meantime, please do not hesitate to contact us if you have any questions.":"Vi kommer att kontakta dig inom 2 arbetsdagar för att ge en uppdatering om statusen för ditt krav. Tveka inte att kontakta oss om du har några frågor under tiden.",
+  "Thank you for your patience and understanding.":"Tack för ditt tålamod och förståelse.",
+  "Sincerely,":"Vänliga hälsningar,",
+  "The Emporium Concierge Travel Claims Team":"Emporium Concierge Resekravsteam",
+
+
+  "Terms And Conditions": "Användarvillkor",
+  "Emporium Concierge Terms and Conditions": "Emporium Concierge Villkor och bestämmelser",
+  "Welcome to Emporium Concierge, the Justice as a Service provider. These Terms and Conditions (the 'Terms') govern the delivery of our services to you and constitute a binding agreement between you and Emporium Concierge, a trading name of Optimus Consortium Limited ('Emporium Concierge,' 'we,' 'us,' or 'our').": "Välkommen till Emporium Concierge, leverantören av Justice as a Service. Dessa Villkor och bestämmelser ('Villkoren') reglerar leveransen av våra tjänster till dig och utgör ett bindande avtal mellan dig och Emporium Concierge, ett handelsnamn för Optimus Consortium Limited ('Emporium Concierge', 'vi', 'oss' eller 'vår').",
+  "1. Definitions": "1. Definitioner",
+
+  "In these Terms, certain terms have specific meanings, including:":"I dessa Villkor har vissa begrepp specifika betydelser, inklusive:",
+  "'Agreement': an agreement between a Customer and Emporium Concierge for the delivery of Justice as a Service.":"'Avtalet': ett avtal mellan en Kund och Emporium Concierge för leverans av Justice as a Service.",
+  "'Emporium Concierge': Emporium Concierge, a trading name of Optimus Consortium Limited.":"'Emporium Concierge': Emporium Concierge, ett handelsnamn för Optimus Consortium Limited.",
+  "'Air Passenger Rights Regulation': any law, regulation, directive, international convention, or similar, whether issued on state, federal, EU, national, international, or regional level, and case law, that establishes rules on monetary compensation, damages, or refund to passengers in the event of overbooked, delayed, cancelled, or otherwise disrupted flights or luggage claims.": "'Flygpassagerarrättsförordning': någon lag, förordning, direktiv, internationell konvention eller liknande, oavsett om det utfärdats på statlig, federal, EU, nationell, internationell eller regional nivå, samt rättspraxis, som fastställer regler om monetär ersättning, skadestånd eller återbetalning till passagerare i händelse av överbokade, försenade, inställda eller på annat sätt störda flygningar eller bagagekrav.",
+  "'Assignment Form': the electronic document, whereby the Customer and Emporium Concierge agree that Emporium Concierge shall become the owner of the Claim, subject to the terms and conditions of the document, in order to collect and receive payments.":"'Överlåtelseformulär': det elektroniska dokument, genom vilket Kunden och Emporium Concierge överenskommer att Emporium Concierge ska bli ägare till Kravet, under förutsättning att villkoren i dokumentet uppfylls, för att samla in och ta emot betalningar.",
+  "'Authority Document': a document which authorises Emporium Concierge and/or one of Emporium Concierge's affiliates or partners to act on behalf of the Customer.": "'Fullmaktsdokument': ett dokument som bemyndigar Emporium Concierge och/eller någon av Emporium Concierges dotterbolag eller samarbetspartners att agera på Kundens vägnar.",
+  "'Claim': any claim against an airline for monetary compensation, damages, or refund pursuant to Air Passenger Rights Regulations or an airline's goodwill compensation.":"'Krav': något krav mot ett flygbolag för monetär ersättning, skadestånd eller återbetalning enligt Flygpassagerarrättsförordningarna eller ett flygbolags goodwill-ersättning.",
+  "'Customer(s)': person(s) that has accepted these Terms. May also be referred to as 'Client' on some documents.":"'Kund(er)': person(er) som har accepterat dessa Villkor. Kan också kallas 'Klient' i vissa dokument.",
+  "'Eligibility Service': is Emporium Concierge's delivery of its state-of-the-art claim eligibility determination through software.":"'Behörighetstjänst': är Emporium Concierges leverans av sin förstklassiga kravberättigandebestämning genom programvara.",
+  "'Flight Compensation': total amount of money paid by an airline in relation to a Claim as compensation, refund, damages, settlement, a gesture of goodwill, or otherwise, to the Customer or Emporium Concierge after the Customer has accepted these Terms.":"'Flygersättning': totalt belopp av pengar som betalas av ett flygbolag i förhållande till ett Krav som ersättning, återbetalning, skadestånd, förlikning, en gest av goodwill eller på annat sätt, till Kunden eller Emporium Concierge efter att Kunden har accepterat dessa Villkor.",
+  "'Information Service': is Emporium Concierge's provision of flight information, airline information, airport information, other travel-related information, information about air passenger rights, and consumer protection laws.":"'Informationstjänst': är Emporium Concierges tillhandahållande av flyginformation, flygbolagsinformation, flygplatsinformation, annan reseinformation, information om flygpassagerares rättigheter och konsumentskyddslagar.",
+  "'Justice as a Service': is Emporium Concierge's pursuit of a Claim, including, if necessary, by Legal Action.":"'Justice as a Service': är Emporium Concierges framställning av ett Krav, inklusive, om nödvändigt, genom rättsliga åtgärder.",
+  "'Legal Action': filing a Claim with a court or a government body, such as a national enforcement body (NEB), or handing over a Claim to a contracted legal representative, such as an attorney or law firm.":"'Rättslig åtgärd': att inlämna ett Krav till en domstol eller en statlig myndighet, som en nationell verkställande myndighet (NEB), eller att överlämna ett Krav till en kontrakterad juridisk representant, såsom en advokat eller advokatbyrå.",
+  "2. Description of Justice as a Service":"2. Beskrivning av Justice as a Service",
+ 
+  "Emporium Concierge provides Justice as a Service to assert the Customer's Claim for Flight Compensation from the operating airline on the basis of EC 261 or any other Air Passenger Rights Regulation applicable to the Customer's particular air travel. We receive flight data and information from the Customer through our website, email, other electronic or software solutions supported by Emporium Concierge, or phone. To pursue the Claim successfully, we need the Customer's submitted Assignment Form or Authority Document, which they can send to us via the web form or using email, or postal service. We prepare a request for payment and send it to the operating airline without unreasonable delay and handle all further correspondence. If Flight Compensation is paid, we charge our Service Fee. If the operating airline fails to pay Flight Compensation within a reasonable period after being notified by us and provided the case may be asserted with adequate certainty, we may propose and initiate Legal Action to pursue the Claim. In the event that Legal Action is undertaken as advised and Flight Compensation is paid, we charge the Legal Action Fee in addition to the Service Fee. If a contracted legal representative is used for Legal Action, the Customer authorizes us to grant the legal representative access to all of the data communicated to us and to transfer information concerning the proceedings to us. We reserve the right to contact the Customer and actively pursue the Claim again in the event of changes affecting the Claim's prospects of success.":"Emporium Concierge erbjuder Justice as a Service för att hävda Kundens Krav på Flygersättning från det operativa flygbolaget baserat på EC 261 eller någon annan Flygpassagerarrättsförordning som är tillämplig på Kundens specifika flygresa. Vi tar emot flygdata och information från Kunden via vår webbplats, e-post, andra elektroniska eller programvarulösningar som stöds av Emporium Concierge eller telefon. För att framgångsrikt driva Kravet behöver vi Kundens inskickade Överlåtelseformulär eller Fullmaktsdokument, som de kan skicka till oss via webbformuläret eller med e-post eller post. Vi förbereder en begäran om betalning och skickar den till det operativa flygbolaget utan oskäligt dröjsmål och hanterar all ytterligare korrespondens. Om Flygersättning betalas, debiterar vi vår Serviceavgift. Om det operativa flygbolaget inte betalar Flygersättning inom en rimlig tid efter att ha underrättats av oss och förutsatt att ärendet kan hävdas med tillräcklig säkerhet, kan vi föreslå och initiera Rättslig åtgärd för att driva Kravet. Om Rättslig åtgärd vidtas enligt råd och Flygersättning betalas, debiterar vi Rättslig åtgärdsavgift utöver Serviceavgiften. Om en kontrakterad juridisk representant används för Rättslig åtgärd, bemyndigar Kunden oss att bevilja den juridiska representanten tillgång till all data som kommunicerats till oss och att överföra information om förfarandet till oss. Vi förbehåller oss rätten att kontakta Kunden och aktivt driva Kravet igen i händelse av förändringar som påverkar Kravets framgångsutsikter.",
+  "If we or the contracted legal representative institutes legal proceedings to pursue a Claim, we will cover any costs incurred in the event the lawsuit is lost. In the event the lawsuit is won, or a settlement has been reached between the airline and us, we will cover any costs incurred that are not covered by the airline. The Customer acknowledges that it is the sole decision of Emporium Concierge to accept any settlement offer since the Customer has assigned the Claim to us. In case we act on behalf of the Customer pursuant to an Authority Document, the Customer authorizes us to accept or reject settlement offers based on our experience with the airline and the advice from external legal representatives. We may pursue the Claim in our own name with the assigned Claim, with or without the help of a legal representative. Where appropriate and/or legally necessary, we may reassign the Claim to the Customer and the Customer agrees to grant us an Authority Document to deliver Justice as a Service and collect and/or receive payments.":"Om vi eller den kontrakterade juridiska representanten inleder rättsliga förfaranden för att driva ett Krav, kommer vi att täcka eventuella kostnader som uppstår i händelse av att rättegången förloras. Om rättegången vinner, eller om en förlikning har nåtts mellan flygbolaget och oss, kommer vi att täcka alla kostnader som uppstår som inte täcks av flygbolaget. Kunden erkänner att det är Emporium Concierges enskilda beslut att acceptera något förlikningserbjudande eftersom Kunden har överlåtit Kravet till oss. I de fall där vi agerar på uppdrag av Kunden enligt ett Fullmaktsdokument, bemyndigar Kunden oss att acceptera eller avvisa förlikningserbjudanden baserat på vår erfarenhet med flygbolaget och råd från externa juridiska representanter. Vi kan driva Kravet i eget namn med det överlåtna Kravet, med eller utan hjälp av en juridisk representant. Där det är lämpligt och/eller juridiskt nödvändigt kan vi återöverlåta Kravet till Kunden och Kunden samtycker till att bevilja oss ett Fullmaktsdokument för att leverera Justice as a Service och samla in och/eller ta emot betalningar.",
+  "3. Data and Information from the Customer":"3. Data och information från Kunden",
+
+  "Upon request by Emporium Concierge, the Customer or their fellow passengers will provide us with all data or information that is required for the execution of the Agreement. The Customer warrants that the data and information provided is correct, complete and true, and where applicable, given with the consent of the fellow passengers. The Customer agrees to fully indemnify Emporium Concierge in all respects for all third-party claims including, but not limited to, incorrect Customer communications, provision of incorrect data/information, and fraudulent conduct. In case of incorrect data/information and fraudulent conduct, we reserve the right to terminate the Agreement with immediate effect. If the Agreement is terminated in accordance with this paragraph, the Customer will not have any right to compensation of any kind.":"På begäran av Emporium Concierge kommer Kunden eller deras medresenärer att förse oss med alla uppgifter eller information som krävs för att genomföra Avtalet. Kunden garanterar att de uppgifter och den information som lämnas är korrekta, fullständiga och sanningsenliga, och där det är tillämpligt, lämnas med samtycke från medresenärerna. Kunden godkänner att i alla avseenden fullt ut hålla Emporium Concierge skadeslös för alla tredjepartsanspråk, inklusive men inte begränsat till, felaktiga kundkommunikationer, tillhandahållande av felaktiga uppgifter/information och bedrägligt uppträdande. Vid felaktiga uppgifter/information och bedrägligt uppträdande förbehåller vi oss rätten att omedelbart avsluta Avtalet. Om Avtalet avslutas enligt detta stycke kommer Kunden inte att ha rätt till ersättning av något slag.",
+  "4. Right of Withdrawal":"4. Ångerrätt",
+
+  "If the Customer qualifies as a consumer in accordance with EU consumer regulations, they have a statutory right of withdrawal. The Customer can withdraw their acceptance of the Agreement within 14 days from the conclusion of the Agreement (e.g., letter, email) without the need to specify any reasons. To exercise their right to withdrawal, the withdrawal must be communicated within the 14-day period mentioned above, and it must clearly state their wish to withdraw from the Agreement. Due to the nature of the service provided to the Customer, they cannot withdraw from our Agreement if we have informed the Customer that the airline has accepted the Claim, as in such an event we have completed the service they requested.":"Om Kunden kvalificerar sig som konsument enligt EU:s konsumentskyddsregler, har de en lagstadgad ångerrätt. Kunden kan återkalla sitt godkännande av Avtalet inom 14 dagar från ingåendet av Avtalet (t.ex. brev, e-post) utan att behöva ange några skäl. För att utöva sin ångerrätt måste återkallelsen kommuniceras inom den 14-dagarsperiod som nämnts ovan, och den måste tydligt ange deras önskan att återkalla sig från Avtalet. På grund av tjänstens natur kan Kunden inte ångra vårt Avtal om vi har informerat Kunden om att flygbolaget har accepterat Kravet, eftersom vi i så fall har slutfört den tjänst de begärt.",
+  "5. Final Provisions":"5. Slutbestämmelser",
+
+  "Emporium Concierge is authorized to alter these Terms and any associated Price List and to set forth additional conditions at any time and without notice. However, changes with a negative effect on the Client will not apply to the Client unless they agree to new changes. The laws of Gibraltar apply to these Terms, the Assignment Form, and the Agreement between Emporium Concierge and the Customer, without regard to conflict of laws principles. Should any provision of these Terms be or become void, illegal, or unenforceable, this shall not affect the validity of the remaining provisions in any way whatsoever. Rights and obligations fully or partially related to any submitted Claim may be transferred without restrictions by Emporium Concierge to any entity within the corporate group of Emporium Concierge and by Emporium Concierge to third parties. The English version of these Terms shall prevail in case of inconsistency with any other language version.":"Emporium Concierge är bemyndigad att ändra dessa Villkor och eventuella tillhörande prislistor och att fastställa ytterligare villkor när som helst och utan förvarning. Ändringar som påverkar Kunden negativt tillämpas dock inte på Kunden om de inte godkänner de nya ändringarna. Gibraltars lagar gäller för dessa Villkor, Överlåtelseformuläret och Avtalet mellan Emporium Concierge och Kunden, utan hänsyn till principerna för lagkonflikter. Om någon bestämmelse i dessa Villkor är eller blir ogiltig, olaglig eller ogenomförbar, ska detta inte på något sätt påverka giltigheten hos de återstående bestämmelserna. Rättigheter och skyldigheter som helt eller delvis är relaterade till något inskickat Krav kan överföras utan begränsningar av Emporium Concierge till något företag inom Emporium Concierges företagsgrupp och av Emporium Concierge till tredje part. Den engelska versionen av dessa Villkor ska gälla vid eventuell inkonsekvens med någon annan språkversion.",
+  "We use cookies 🍪 to provide you with the best browsing experience. By using Emporium Concierge, you agree to our cookie policy, which can be found on our website.":"Vi använder cookies 🍪 för att ge dig den bästa webbläsarupplevelsen. Genom att använda Emporium Concierge godkänner du vår cookie-policy, som finns på vår webbplats.",
+  "If you have any questions or concerns about these Terms, please contact us at travel@emporiumconcierge.com. Thank you for choosing Emporium Concierge for your Justice as a Service needs.":"Om du har några frågor eller funderingar angående dessa Villkor, vänligen kontakta oss på travel@emporiumconcierge.com. Tack för att du valde Emporium Concierge för dina Justice as a Service-behov."
+}

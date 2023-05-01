@@ -45,10 +45,69 @@ function LanguageModal({ modalOpened, setModalOpened }) {
           </Grid>
           <Grid item xs={2} sm={4} md={4} padding={2} sx={{ margin: "8px" }}>
             <Button
+              onClick={() => changeLanguage("en")}
+              colorScheme="brandSecondary"
+            >
+              English
+            </Button>
+          </Grid>
+          <Grid item xs={2} sm={4} md={4} padding={2} sx={{ margin: "8px" }}>
+            <Button
+              onClick={() => changeLanguage("su")}
+              colorScheme="brandSecondary"
+            >
+              Suomi
+            </Button>
+          </Grid>
+          <Grid item xs={2} sm={4} md={4} padding={2} sx={{ margin: "8px" }}>
+            <Button 
+            onClick={() => changeLanguage("fr")} 
+            colorScheme="brandSecondary">
+              Français
+            </Button>
+          </Grid>
+          <Grid item xs={2} sm={4} md={4} padding={2} sx={{ margin: "8px" }}>
+            <Button
               onClick={() => changeLanguage("de")}
               colorScheme="brandSecondary"
             >
               Deutsch
+            </Button>
+          </Grid>
+          <Grid item xs={2} sm={4} md={4} padding={2} sx={{ margin: "8px" }}>
+            <Button
+              onClick={() => changeLanguage("Ελ")}
+              colorScheme="brandSecondary"
+            >
+              Ελληνικά 
+            </Button>
+          </Grid>
+          <Grid item xs={2} sm={4} md={4} padding={2} sx={{ margin: "8px" }}>
+            <Button
+              onClick={() => changeLanguage("Ís")}
+              colorScheme="brandSecondary"
+            >
+              Íslenska  
+            </Button>
+          </Grid>
+          <Grid item xs={2} sm={4} md={4} padding={2} sx={{ margin: "8px" }}>
+            <Button onClick={() => changeLanguage("it")}  colorScheme="brandSecondary">
+              Italiano
+            </Button>
+          </Grid>
+          <Grid item xs={2} sm={4} md={4} padding={2} sx={{ margin: "8px" }}>
+            <Button onClick={() => changeLanguage("no")}  colorScheme="brandSecondary">
+              Norsk
+            </Button>
+          </Grid>
+          <Grid item xs={2} sm={4} md={4} padding={2} sx={{ margin: "8px" }}>
+            <Button onClick={() => changeLanguage("pl")}  colorScheme="brandSecondary">
+              Polski
+            </Button>
+          </Grid>
+          <Grid item xs={2} sm={4} md={4} padding={2} sx={{ margin: "8px" }}>
+            <Button onClick={() => changeLanguage("po")}  colorScheme="brandSecondary">
+              Português (Brasil)
             </Button>
           </Grid>
           <Grid item xs={2} sm={4} md={4} padding={2} sx={{ margin: "8px" }}>
@@ -61,30 +120,15 @@ function LanguageModal({ modalOpened, setModalOpened }) {
           </Grid>
           <Grid item xs={2} sm={4} md={4} padding={2} sx={{ margin: "8px" }}>
             <Button
-              onClick={() => changeLanguage("en")}
+              onClick={() => changeLanguage("du")}
               colorScheme="brandSecondary"
             >
-              English
+              Dutch
             </Button>
           </Grid>
           <Grid item xs={2} sm={4} md={4} padding={2} sx={{ margin: "8px" }}>
-            <Button onClick={onClick} colorScheme="brandSecondary">
-              Français
-            </Button>
-          </Grid>
-          <Grid item xs={2} sm={4} md={4} padding={2} sx={{ margin: "8px" }}>
-            <Button onClick={onClick} colorScheme="brandSecondary">
-              Italiano
-            </Button>
-          </Grid>
-          <Grid item xs={2} sm={4} md={4} padding={2} sx={{ margin: "8px" }}>
-            <Button onClick={onClick} colorScheme="brandSecondary">
-              Português (Brasil)
-            </Button>
-          </Grid>
-          <Grid item xs={2} sm={4} md={4} padding={2} sx={{ margin: "8px" }}>
-            <Button onClick={onClick} colorScheme="brandSecondary">
-              Română
+            <Button onClick={() => changeLanguage("sv")}  colorScheme="brandSecondary">
+              Svenska
             </Button>
           </Grid>
         </Grid>
